@@ -1,0 +1,14 @@
+{
+  "companies": [
+    {
+      "id": 12401,
+      "companyName": "ACME Corporation",
+      "onwerEmail": "tom.hudges@apple.com"
+    },
+    {
+      "id": 12402,
+      "companyName": "intera d.o.o",
+      "onwerEmail": "the.boss@intera.si"
+    }
+  ]
+}
